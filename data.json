@@ -1,0 +1,103 @@
+{
+  "q0": {
+    "letters": {
+      "t": "q13",
+      "d": "q1"
+    },
+    "final_state": null
+  },
+  "q1": {
+    "letters": {
+      "ü": "q2"
+    },
+    "final_state": null
+  },
+  "q2": {
+    "letters": {
+      "c": "q10",
+      "t": "q8",
+      "i": "q7",
+      "m": "q5",
+      "r": "q3"
+    },
+    "final_state": null
+  },
+  "q3": {
+    "letters": {
+      "i": "q4"
+    },
+    "final_state": null
+  },
+  "q4": {
+    "letters": {},
+    "final_state": "Persona"
+  },
+  "q5": {
+    "letters": {
+      "u": "q6"
+    },
+    "final_state": null
+  },
+  "q6": {
+    "letters": {},
+    "final_state": "trabajo"
+  },
+  "q7": {
+    "letters": {},
+    "final_state": "camino"
+  },
+  "q8": {
+    "letters": {
+      "ä": "q9"
+    },
+    "final_state": null
+  },
+  "q9": {
+    "letters": {},
+    "final_state": "Hermano"
+  },
+  "q10": {
+    "letters": {
+      "h": "q11"
+    },
+    "final_state": null
+  },
+  "q11": {
+    "letters": {
+      "i": "q12"
+    },
+    "final_state": null
+  },
+  "q12": {
+    "letters": {},
+    "final_state": "Mano Derecha"
+  },
+  "q13": {
+    "letters": {
+      "ü": "q14"
+    },
+    "final_state": null
+  },
+  "q14": {
+    "letters": {
+      "c": "q15"
+    },
+    "final_state": null
+  },
+  "q15": {
+    "letters": {
+      "h": "q16"
+    },
+    "final_state": null
+  },
+  "q16": {
+    "letters": {
+      "i": "q17"
+    },
+    "final_state": null
+  },
+  "q17": {
+    "letters": {},
+    "final_state": "Hola"
+  }
+}
