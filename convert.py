@@ -1,3 +1,5 @@
+import json
+
 texto_completo = """1. düri - Persona
 2. chuma - Casa
 3. chani - Agua
@@ -57,7 +59,7 @@ texto_completo = """1. düri - Persona
 57. böchi - Sangre
 58. chämara - Playa
 59. chorä - Mar
-60. dütä – Hermano
+60. dütä - Hermano
 61. dötä - Hermana
 62. näbä - Flor
 63. jöna - Estrella
@@ -93,10 +95,10 @@ texto_completo = """1. düri - Persona
 93. tsawe - Sombra
 94. kwinbä - Relámpago
 95. käkwira - Trueno
-96. tsoka – Camisa
-97. kuruma – Carro
+96. tsoka - Camisa
+97. kuruma - Carro
 98. kächi - Hijo/a
-99. töpÄ – Vecino
+99. töpÄ - Vecino
 100. jerö - Dinero"""
 
 
@@ -170,5 +172,5 @@ for text_per_line in array_text:
 
     indice_final = funcion(cadena1, cadena2, indice_final)
 
-
-print(json_data)
+with open("data.json", "w", encoding="utf-8") as json_file:
+    json.dump(json_data, json_file, indent=4, ensure_ascii=False)
