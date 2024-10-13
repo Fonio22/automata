@@ -1,7 +1,7 @@
 "use client";
 
 import { Button, Card, Table, Tabs, Textarea } from "@mantine/core";
-import { useCallback, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 type State = {
   letters: {
@@ -21,14 +21,6 @@ type AutomatonStateResult = {
   index: number;
   status: boolean;
 };
-
-const elements = [
-  { position: 6, mass: 12.011, symbol: "C", name: "Carbon" },
-  { position: 7, mass: 14.007, symbol: "N", name: "Nitrogen" },
-  { position: 39, mass: 88.906, symbol: "Y", name: "Yttrium" },
-  { position: 56, mass: 137.33, symbol: "Ba", name: "Barium" },
-  { position: 58, mass: 140.12, symbol: "Ce", name: "Cerium" },
-];
 
 export default function Home() {
   const [textInput, setTextInput] = useState("");
@@ -104,7 +96,7 @@ export default function Home() {
     const cadena_array = playGroundInput.split(" ");
 
     let resultadoFinal = [] as any;
-    console.log("cadena_array", cadena_array);
+
     cadena_array.forEach((element) => {
       const estado = ["q0"];
       const resultado = procesarCadena(element, data, estado);
@@ -403,8 +395,6 @@ function funcionConvert(
   let indiceContador = indiceComienzo;
   let estadoActual = "q0";
   const cadenaTrozo = cadena.split("");
-
-  console.log("cadena -> ", cadena, " resultado -> ", resultado);
 
   cadenaTrozo.forEach((letra, index) => {
     if (!jsonData[estadoActual]) {
