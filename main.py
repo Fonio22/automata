@@ -1,6 +1,6 @@
 import json
 
-with open("data2.json", "r") as file:
+with open("data.json", "r") as file:
     data = json.load(file)
 
 
@@ -28,6 +28,6 @@ def procesar_cadena(cadena):
             }
 
 
-print(procesar_cadena("düri"))
+print(procesar_cadena("bwä"))
 
 print(estado)

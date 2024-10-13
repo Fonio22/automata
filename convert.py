@@ -108,7 +108,6 @@ def funcion(cadena, resultado, indice_comienzo):
     cadena_trozos = list(cadena)
 
     for index, letra in enumerate(cadena_trozos):
-
         if estado_actual not in json_data:
             estado_actual = "q" + str(indice_contador)
             json_data[estado_actual] = {
@@ -126,7 +125,7 @@ def funcion(cadena, resultado, indice_comienzo):
                         letra: indice_contador_nuevo,
                         **json_data[estado_actual]["letters"],
                     },
-                    "final_state": None,
+                    "final_state": None if json_data[estado_actual]['final_state'] == None else json_data[estado_actual]['final_state'],
                 }
                 estado_actual = indice_contador_nuevo
             else:
