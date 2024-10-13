@@ -1,5 +1,6 @@
 "use client";
 
+import { funcionConvert, procesarCadena } from "@/functions/allFunctions";
 import { Button, Card, Table, Tabs, Textarea } from "@mantine/core";
 import { useEffect, useState } from "react";
 
@@ -10,7 +11,7 @@ type State = {
   final_state: string | null;
 };
 
-type Automaton = {
+export type Automaton = {
   [key: string]: State;
 };
 
@@ -142,15 +143,17 @@ export default function Home() {
   });
 
   const rowsExtra = playGroundInput.split(" ").map((element, index) => {
+    const currentResult = result[index]; // Almacena el valor de result[index]
+
     return (
       <Table.Tr key={index}>
         <Table.Td>{element}</Table.Td>
         <Table.Td>{element.length}</Table.Td>
-        <Table.Td>{result[index].index + 1}</Table.Td>
+        <Table.Td>{currentResult ? currentResult.index + 1 : "N/A"}</Table.Td>
         <Table.Td
-          className={result[index].status ? "text-green-500" : "text-red-500"}
+          className={currentResult?.status ? "text-green-500" : "text-red-500"}
         >
-          {result[index].status ? "Aceptado" : "No aceptado"}
+          {currentResult?.status ? "Aceptado" : "No aceptado"}
         </Table.Td>
       </Table.Tr>
     );
@@ -385,87 +388,3 @@ const Navbar = () => {
     </nav>
   );
 };
-
-function funcionConvert(
-  cadena: string,
-  resultado: string,
-  indiceComienzo: number,
-  jsonData: any
-) {
-  let indiceContador = indiceComienzo;
-  let estadoActual = "q0";
-  const cadenaTrozo = cadena.split("");
-
-  cadenaTrozo.forEach((letra, index) => {
-    if (!jsonData[estadoActual]) {
-      estadoActual = "q" + indiceContador;
-      jsonData[estadoActual] = {
-        letters: {},
-        final_state: null,
-      };
-      indiceContador++;
-    }
-
-    if (jsonData[estadoActual]) {
-      if (!jsonData[estadoActual].letters[letra]) {
-        const indiceContadorNuevo = "q" + indiceContador;
-        jsonData[estadoActual] = {
-          ...jsonData[estadoActual],
-          letters: {
-            [letra]: indiceContadorNuevo,
-            ...jsonData[estadoActual].letters,
-          },
-          final_state: jsonData[estadoActual].final_state || null,
-        };
-        estadoActual = indiceContadorNuevo;
-      } else {
-        estadoActual = jsonData[estadoActual].letters[letra];
-      }
-    }
-
-    if (index + 1 === cadenaTrozo.length) {
-      if (estadoActual === jsonData) {
-        jsonData[estadoActual] = {
-          ...jsonData[estadoActual],
-          final_state: resultado,
-        };
-      } else {
-        jsonData[estadoActual] = {
-          letters: {},
-          final_state: resultado,
-        };
-        indiceContador++;
-      }
-    }
-  });
-
-  return {
-    jsonData,
-    indiceContador,
-  };
-}
-
-function procesarCadena(cadena: string, data: Automaton, estado: string[]) {
-  const trozos = cadena.split("");
-
-  for (let index = 0; index < trozos.length; index++) {
-    const letra = trozos[index];
-    if (!data[estado[estado.length - 1]].letters.hasOwnProperty(letra)) {
-      return {
-        status: false,
-        final_state: data[estado[estado.length - 1]].final_state,
-        index: index,
-      };
-    }
-
-    estado.push(data[estado[estado.length - 1]].letters[letra]);
-
-    if (index === trozos.length - 1) {
-      return {
-        status: data[estado[estado.length - 1]].final_state !== null,
-        final_state: data[estado[estado.length - 1]].final_state,
-        index: index,
-      };
-    }
-  }
-}
