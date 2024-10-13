@@ -89,9 +89,11 @@ export default function Home() {
 
   useEffect(() => {
     procesar();
-  }, [playGroundInput]);
+  }, [playGroundInput, jsonDataInput]);
 
   const procesar = () => {
+    if (Object.keys(jsonDataInput).length === 0 || errors.textInput !== "")
+      return;
     const data = jsonDataInput;
 
     const cadena_array = playGroundInput.split(" ");
@@ -216,7 +218,7 @@ export default function Home() {
                 <Textarea
                   label="Escriba un texto"
                   description=""
-                  placeholder="Input placeholder"
+                  placeholder="Escriba un texto para procesar"
                   autosize
                   className="mt-3"
                   classNames={{
@@ -226,9 +228,21 @@ export default function Home() {
                   maxRows={7}
                   onChange={(e) => setPlayGroundInput(e.currentTarget.value)}
                   value={playGroundInput}
+                  disabled={
+                    Object.keys(jsonDataInput).length === 0 ||
+                    errors.textInput !== ""
+                  }
                 />
                 <div className="flex justify-between items-center mt-3 gap-3">
-                  <Button variant="outline" color="red" size="md" fullWidth>
+                  <Button
+                    variant="outline"
+                    color="red"
+                    size="md"
+                    fullWidth
+                    onClick={() => {
+                      setPlayGroundInput("");
+                    }}
+                  >
                     Limpiar
                   </Button>
                   <Button
