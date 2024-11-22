@@ -1,0 +1,626 @@
+[
+    {
+        "Palabra": "düri",
+        "Tipo": "Sustantivo",
+        "Traduccion": "persona",
+        "Descripcion": "düri es la palabra utilizada para traducir persona."
+    },
+    {
+        "Palabra": "chuma",
+        "Tipo": "Sustantivo",
+        "Traduccion": "casa",
+        "Descripcion": "chuma es la palabra utilizada para traducir casa."
+    },
+    {
+        "Palabra": "chani",
+        "Tipo": "Sustantivo",
+        "Traduccion": "agua",
+        "Descripcion": "chani es la palabra utilizada para traducir agua."
+    },
+    {
+        "Palabra": "kechi",
+        "Tipo": "Sustantivo",
+        "Traduccion": "comida",
+        "Descripcion": "kechi es la palabra utilizada para traducir comida."
+    },
+    {
+        "Palabra": "bwä",
+        "Tipo": "Sustantivo",
+        "Traduccion": "niño",
+        "Descripcion": "bwä es la palabra utilizada para traducir niño."
+    },
+    {
+        "Palabra": "kwö",
+        "Tipo": "Sustantivo",
+        "Traduccion": "hombre",
+        "Descripcion": "kwö es la palabra utilizada para traducir hombre."
+    },
+    {
+        "Palabra": "tö",
+        "Tipo": "Sustantivo",
+        "Traduccion": "mujer",
+        "Descripcion": "tö es la palabra utilizada para traducir mujer."
+    },
+    {
+        "Palabra": "jopö",
+        "Tipo": "Sustantivo",
+        "Traduccion": "sol",
+        "Descripcion": "jopö es la palabra utilizada para traducir sol."
+    },
+    {
+        "Palabra": "jia",
+        "Tipo": "Sustantivo",
+        "Traduccion": "luna",
+        "Descripcion": "jia es la palabra utilizada para traducir luna."
+    },
+    {
+        "Palabra": "rama",
+        "Tipo": "Sustantivo",
+        "Traduccion": "tierra",
+        "Descripcion": "rama es la palabra utilizada para traducir tierra."
+    },
+    {
+        "Palabra": "joni",
+        "Tipo": "Sustantivo",
+        "Traduccion": "fuego",
+        "Descripcion": "joni es la palabra utilizada para traducir fuego."
+    },
+    {
+        "Palabra": "soga",
+        "Tipo": "Sustantivo",
+        "Traduccion": "cielo",
+        "Descripcion": "soga es la palabra utilizada para traducir cielo."
+    },
+    {
+        "Palabra": "ködrö",
+        "Tipo": "Sustantivo",
+        "Traduccion": "árbol",
+        "Descripcion": "ködrö es la palabra utilizada para traducir árbol."
+    },
+    {
+        "Palabra": "džäbä",
+        "Tipo": "Sustantivo",
+        "Traduccion": "montaña",
+        "Descripcion": "džäbä es la palabra utilizada para traducir montaña."
+    },
+    {
+        "Palabra": "chäkä",
+        "Tipo": "Sustantivo",
+        "Traduccion": "río",
+        "Descripcion": "chäkä es la palabra utilizada para traducir río."
+    },
+    {
+        "Palabra": "dorä",
+        "Tipo": "Sustantivo",
+        "Traduccion": "camino",
+        "Descripcion": "dorä es la palabra utilizada para traducir camino."
+    },
+    {
+        "Palabra": "kura",
+        "Tipo": "Sustantivo",
+        "Traduccion": "piedra",
+        "Descripcion": "kura es la palabra utilizada para traducir piedra."
+    },
+    {
+        "Palabra": "ngä",
+        "Tipo": "Sustantivo",
+        "Traduccion": "mano",
+        "Descripcion": "ngä es la palabra utilizada para traducir mano."
+    },
+    {
+        "Palabra": "kä",
+        "Tipo": "Sustantivo",
+        "Traduccion": "pie",
+        "Descripcion": "kä es la palabra utilizada para traducir pie."
+    },
+    {
+        "Palabra": "kuu",
+        "Tipo": "Sustantivo",
+        "Traduccion": "cabeza",
+        "Descripcion": "kuu es la palabra utilizada para traducir cabeza."
+    },
+    {
+        "Palabra": "döjö",
+        "Tipo": "Sustantivo",
+        "Traduccion": "corazón",
+        "Descripcion": "döjö es la palabra utilizada para traducir corazón."
+    },
+    {
+        "Palabra": "sowo",
+        "Tipo": "Sustantivo",
+        "Traduccion": "viento",
+        "Descripcion": "sowo es la palabra utilizada para traducir viento."
+    },
+    {
+        "Palabra": "nibä",
+        "Tipo": "Sustantivo",
+        "Traduccion": "noche",
+        "Descripcion": "nibä es la palabra utilizada para traducir noche."
+    },
+    {
+        "Palabra": "dubä",
+        "Tipo": "Sustantivo",
+        "Traduccion": "día",
+        "Descripcion": "dubä es la palabra utilizada para traducir día."
+    },
+    {
+        "Palabra": "tso",
+        "Tipo": "Sustantivo",
+        "Traduccion": "pájaro",
+        "Descripcion": "tso es la palabra utilizada para traducir pájaro."
+    },
+    {
+        "Palabra": "dëre",
+        "Tipo": "Adjetivo",
+        "Traduccion": "bueno",
+        "Descripcion": "dëre es la palabra utilizada para traducir bueno."
+    },
+    {
+        "Palabra": "kwä",
+        "Tipo": "Adjetivo",
+        "Traduccion": "malo",
+        "Descripcion": "kwä es la palabra utilizada para traducir malo."
+    },
+    {
+        "Palabra": "gwä",
+        "Tipo": "Adjetivo",
+        "Traduccion": "frío",
+        "Descripcion": "gwä es la palabra utilizada para traducir frío."
+    },
+    {
+        "Palabra": "kachi",
+        "Tipo": "Adjetivo",
+        "Traduccion": "caliente",
+        "Descripcion": "kachi es la palabra utilizada para traducir caliente."
+    },
+    {
+        "Palabra": "duwi",
+        "Tipo": "Adjetivo",
+        "Traduccion": "grande",
+        "Descripcion": "duwi es la palabra utilizada para traducir grande."
+    },
+    {
+        "Palabra": "chubi",
+        "Tipo": "Adjetivo",
+        "Traduccion": "pequeño",
+        "Descripcion": "chubi es la palabra utilizada para traducir pequeño."
+    },
+    {
+        "Palabra": "doyi",
+        "Tipo": "Adjetivo",
+        "Traduccion": "rápido",
+        "Descripcion": "doyi es la palabra utilizada para traducir rápido."
+    },
+    {
+        "Palabra": "bweñe",
+        "Tipo": "Adjetivo",
+        "Traduccion": "felicidad",
+        "Descripcion": "bweñe es la palabra utilizada para traducir felicidad."
+    },
+    {
+        "Palabra": "kwäba",
+        "Tipo": "Adjetivo",
+        "Traduccion": "tristeza",
+        "Descripcion": "kwäba es la palabra utilizada para traducir tristeza."
+    },
+    {
+        "Palabra": "jägü",
+        "Tipo": "Adjetivo",
+        "Traduccion": "mañana",
+        "Descripcion": "jägü es la palabra utilizada para traducir mañana."
+    },
+    {
+        "Palabra": "togä",
+        "Tipo": "Adjetivo",
+        "Traduccion": "mediodía",
+        "Descripcion": "togä es la palabra utilizada para traducir mediodía."
+    },
+    {
+        "Palabra": "tschö",
+        "Tipo": "Adjetivo",
+        "Traduccion": "tarde",
+        "Descripcion": "tschö es la palabra utilizada para traducir tarde."
+    },
+    {
+        "Palabra": "näbä",
+        "Tipo": "Adjetivo",
+        "Traduccion": "flor",
+        "Descripcion": "näbä es la palabra utilizada para traducir flor."
+    },
+    {
+        "Palabra": "mäbä",
+        "Tipo": "Adjetivo",
+        "Traduccion": "carretera",
+        "Descripcion": "mäbä es la palabra utilizada para traducir carretera."
+    },
+    {
+        "Palabra": "kwinbä",
+        "Tipo": "Adjetivo",
+        "Traduccion": "relámpago",
+        "Descripcion": "kwinbä es la palabra utilizada para traducir relámpago."
+    },
+    {
+        "Palabra": "käkwira",
+        "Tipo": "Adjetivo",
+        "Traduccion": "trueno",
+        "Descripcion": "käkwira es la palabra utilizada para traducir trueno."
+    },
+    {
+        "Palabra": "tsoka",
+        "Tipo": "Adjetivo",
+        "Traduccion": "camisa",
+        "Descripcion": "tsoka es la palabra utilizada para traducir camisa."
+    },
+    {
+        "Palabra": "kunba",
+        "Tipo": "Adjetivo",
+        "Traduccion": "fruta",
+        "Descripcion": "kunba es la palabra utilizada para traducir fruta."
+    },
+    {
+        "Palabra": "bure",
+        "Tipo": "Adjetivo",
+        "Traduccion": "pescado",
+        "Descripcion": "bure es la palabra utilizada para traducir pescado."
+    },
+    {
+        "Palabra": "däbi",
+        "Tipo": "Adjetivo",
+        "Traduccion": "pan",
+        "Descripcion": "däbi es la palabra utilizada para traducir pan."
+    },
+    {
+        "Palabra": "schüe",
+        "Tipo": "Adjetivo",
+        "Traduccion": "frijol",
+        "Descripcion": "schüe es la palabra utilizada para traducir frijol."
+    },
+    {
+        "Palabra": "konä",
+        "Tipo": "Adjetivo",
+        "Traduccion": "miel",
+        "Descripcion": "konä es la palabra utilizada para traducir miel."
+    },
+    {
+        "Palabra": "kõ",
+        "Tipo": "Adjetivo",
+        "Traduccion": "madera",
+        "Descripcion": "kõ es la palabra utilizada para traducir madera."
+    },
+    {
+        "Palabra": "tängä",
+        "Tipo": "Adjetivo",
+        "Traduccion": "humo",
+        "Descripcion": "tängä es la palabra utilizada para traducir humo."
+    },
+    {
+        "Palabra": "kurä",
+        "Tipo": "Adjetivo",
+        "Traduccion": "roca",
+        "Descripcion": "kurä es la palabra utilizada para traducir roca."
+    },
+    {
+        "Palabra": "winä",
+        "Tipo": "Verbo",
+        "Traduccion": "comer",
+        "Descripcion": "winä es la palabra utilizada para traducir comer."
+    },
+    {
+        "Palabra": "dräkä",
+        "Tipo": "Verbo",
+        "Traduccion": "dormir",
+        "Descripcion": "dräkä es la palabra utilizada para traducir dormir."
+    },
+    {
+        "Palabra": "tshöna",
+        "Tipo": "Verbo",
+        "Traduccion": "correr",
+        "Descripcion": "tshöna es la palabra utilizada para traducir correr."
+    },
+    {
+        "Palabra": "däni",
+        "Tipo": "Verbo",
+        "Traduccion": "beber",
+        "Descripcion": "däni es la palabra utilizada para traducir beber."
+    },
+    {
+        "Palabra": "käna",
+        "Tipo": "Verbo",
+        "Traduccion": "caminar",
+        "Descripcion": "käna es la palabra utilizada para traducir caminar."
+    },
+    {
+        "Palabra": "jogä",
+        "Tipo": "Verbo",
+        "Traduccion": "cantar",
+        "Descripcion": "jogä es la palabra utilizada para traducir cantar."
+    },
+    {
+        "Palabra": "bögä",
+        "Tipo": "Verbo",
+        "Traduccion": "leer",
+        "Descripcion": "bögä es la palabra utilizada para traducir leer."
+    },
+    {
+        "Palabra": "ngänä",
+        "Tipo": "Verbo",
+        "Traduccion": "hablar",
+        "Descripcion": "ngänä es la palabra utilizada para traducir hablar."
+    },
+    {
+        "Palabra": "shöna",
+        "Tipo": "Verbo",
+        "Traduccion": "escribir",
+        "Descripcion": "shöna es la palabra utilizada para traducir escribir."
+    },
+    {
+        "Palabra": "kwaña",
+        "Tipo": "Verbo",
+        "Traduccion": "pensar",
+        "Descripcion": "kwaña es la palabra utilizada para traducir pensar."
+    },
+    {
+        "Palabra": "nwärä",
+        "Tipo": "Verbo",
+        "Traduccion": "mirar",
+        "Descripcion": "nwärä es la palabra utilizada para traducir mirar."
+    },
+    {
+        "Palabra": "bäkä",
+        "Tipo": "Verbo",
+        "Traduccion": "escuchar",
+        "Descripcion": "bäkä es la palabra utilizada para traducir escuchar."
+    },
+    {
+        "Palabra": "dirä",
+        "Tipo": "Verbo",
+        "Traduccion": "abrir",
+        "Descripcion": "dirä es la palabra utilizada para traducir abrir."
+    },
+    {
+        "Palabra": "tsära",
+        "Tipo": "Verbo",
+        "Traduccion": "cerrar",
+        "Descripcion": "tsära es la palabra utilizada para traducir cerrar."
+    },
+    {
+        "Palabra": "kwära",
+        "Tipo": "Verbo",
+        "Traduccion": "gritar",
+        "Descripcion": "kwära es la palabra utilizada para traducir gritar."
+    },
+    {
+        "Palabra": "pänä",
+        "Tipo": "Verbo",
+        "Traduccion": "cocinar",
+        "Descripcion": "pänä es la palabra utilizada para traducir cocinar."
+    },
+    {
+        "Palabra": "chägä",
+        "Tipo": "Verbo",
+        "Traduccion": "comprar",
+        "Descripcion": "chägä es la palabra utilizada para traducir comprar."
+    },
+    {
+        "Palabra": "dögä",
+        "Tipo": "Verbo",
+        "Traduccion": "vender",
+        "Descripcion": "dögä es la palabra utilizada para traducir vender."
+    },
+    {
+        "Palabra": "ngörä",
+        "Tipo": "Verbo",
+        "Traduccion": "construir",
+        "Descripcion": "ngörä es la palabra utilizada para traducir construir."
+    },
+    {
+        "Palabra": "kädrä",
+        "Tipo": "Verbo",
+        "Traduccion": "romper",
+        "Descripcion": "kädrä es la palabra utilizada para traducir romper."
+    },
+    {
+        "Palabra": "shägä",
+        "Tipo": "Verbo",
+        "Traduccion": "ayudar",
+        "Descripcion": "shägä es la palabra utilizada para traducir ayudar."
+    },
+    {
+        "Palabra": "mwära",
+        "Tipo": "Verbo",
+        "Traduccion": "llorar",
+        "Descripcion": "mwära es la palabra utilizada para traducir llorar."
+    },
+    {
+        "Palabra": "jugä",
+        "Tipo": "Verbo",
+        "Traduccion": "jugar",
+        "Descripcion": "jugä es la palabra utilizada para traducir jugar."
+    },
+    {
+        "Palabra": "tshägä",
+        "Tipo": "Verbo",
+        "Traduccion": "cazar",
+        "Descripcion": "tshägä es la palabra utilizada para traducir cazar."
+    },
+    {
+        "Palabra": "kwänä",
+        "Tipo": "Verbo",
+        "Traduccion": "esperar",
+        "Descripcion": "kwänä es la palabra utilizada para traducir esperar."
+    },
+    {
+        "Palabra": "mä",
+        "Tipo": "Sujeto",
+        "Traduccion": "madre",
+        "Descripcion": "mä es la palabra utilizada para traducir madre."
+    },
+    {
+        "Palabra": "pa",
+        "Tipo": "Sujeto",
+        "Traduccion": "padre",
+        "Descripcion": "pa es la palabra utilizada para traducir padre."
+    },
+    {
+        "Palabra": "dütä",
+        "Tipo": "Sujeto",
+        "Traduccion": "hermano",
+        "Descripcion": "dütä es la palabra utilizada para traducir hermano."
+    },
+    {
+        "Palabra": "dötä",
+        "Tipo": "Sujeto",
+        "Traduccion": "hermana",
+        "Descripcion": "dötä es la palabra utilizada para traducir hermana."
+    },
+    {
+        "Palabra": "ngibäre",
+        "Tipo": "Sujeto",
+        "Traduccion": "amigo",
+        "Descripcion": "ngibäre es la palabra utilizada para traducir amigo."
+    },
+    {
+        "Palabra": "kächi",
+        "Tipo": "Sujeto",
+        "Traduccion": "hijo",
+        "Descripcion": "kächi es la palabra utilizada para traducir hijo."
+    },
+    {
+        "Palabra": "töpä",
+        "Tipo": "Sujeto",
+        "Traduccion": "vecino",
+        "Descripcion": "töpä es la palabra utilizada para traducir vecino."
+    },
+    {
+        "Palabra": "mumu",
+        "Tipo": "Sujeto",
+        "Traduccion": "abuela",
+        "Descripcion": "mumu es la palabra utilizada para traducir abuela."
+    },
+    {
+        "Palabra": "pöpö",
+        "Tipo": "Sujeto",
+        "Traduccion": "abuelo",
+        "Descripcion": "pöpö es la palabra utilizada para traducir abuelo."
+    },
+    {
+        "Palabra": "niä",
+        "Tipo": "Sujeto",
+        "Traduccion": "perro",
+        "Descripcion": "niä es la palabra utilizada para traducir perro."
+    },
+    {
+        "Palabra": "mishi",
+        "Tipo": "Sujeto",
+        "Traduccion": "gato",
+        "Descripcion": "mishi es la palabra utilizada para traducir gato."
+    },
+    {
+        "Palabra": "bure",
+        "Tipo": "Sujeto",
+        "Traduccion": "pescado",
+        "Descripcion": "bure es la palabra utilizada para traducir pescado."
+    },
+    {
+        "Palabra": "jamö",
+        "Tipo": "Sujeto",
+        "Traduccion": "tortuga",
+        "Descripcion": "jamö es la palabra utilizada para traducir tortuga."
+    },
+    {
+        "Palabra": "drödrä",
+        "Tipo": "Sujeto",
+        "Traduccion": "ave",
+        "Descripcion": "drödrä es la palabra utilizada para traducir ave."
+    },
+    {
+        "Palabra": "chämara",
+        "Tipo": "Sujeto",
+        "Traduccion": "playa",
+        "Descripcion": "chämara es la palabra utilizada para traducir playa."
+    },
+    {
+        "Palabra": "chorä",
+        "Tipo": "Sujeto",
+        "Traduccion": "mar",
+        "Descripcion": "chorä es la palabra utilizada para traducir mar."
+    },
+    {
+        "Palabra": "ngöbe",
+        "Tipo": "Sujeto",
+        "Traduccion": "pueblo",
+        "Descripcion": "ngöbe es la palabra utilizada para traducir pueblo."
+    },
+    {
+        "Palabra": "bwäkaba",
+        "Tipo": "Sujeto",
+        "Traduccion": "silla",
+        "Descripcion": "bwäkaba es la palabra utilizada para traducir silla."
+    },
+    {
+        "Palabra": "dükaba",
+        "Tipo": "Sujeto",
+        "Traduccion": "mesa",
+        "Descripcion": "dükaba es la palabra utilizada para traducir mesa."
+    },
+    {
+        "Palabra": "näbä",
+        "Tipo": "Sujeto",
+        "Traduccion": "flor",
+        "Descripcion": "näbä es la palabra utilizada para traducir flor."
+    },
+    {
+        "Palabra": "jöna",
+        "Tipo": "Sujeto",
+        "Traduccion": "estrella",
+        "Descripcion": "jöna es la palabra utilizada para traducir estrella."
+    },
+    {
+        "Palabra": "kuruma",
+        "Tipo": "Sujeto",
+        "Traduccion": "carro",
+        "Descripcion": "kuruma es la palabra utilizada para traducir carro."
+    },
+    {
+        "Palabra": "jerö",
+        "Tipo": "Sujeto",
+        "Traduccion": "dinero",
+        "Descripcion": "jerö es la palabra utilizada para traducir dinero."
+    },
+    {
+        "Palabra": "dümu",
+        "Tipo": "Sujeto",
+        "Traduccion": "trabajo",
+        "Descripcion": "dümu es la palabra utilizada para traducir trabajo."
+    },
+    {
+        "Palabra": "rama",
+        "Tipo": "Sujeto",
+        "Traduccion": "tierra",
+        "Descripcion": "rama es la palabra utilizada para traducir tierra."
+    },
+    {
+        "Palabra": "nö",
+        "Tipo": "Interrogativa",
+        "Traduccion": "qué",
+        "Descripcion": "nö es la palabra utilizada para traducir qué."
+    },
+    {
+        "Palabra": "kän",
+        "Tipo": "Interrogativa",
+        "Traduccion": "cómo",
+        "Descripcion": "kän es la palabra utilizada para traducir cómo."
+    },
+    {
+        "Palabra": "mögö",
+        "Tipo": "Interrogativa",
+        "Traduccion": "dónde",
+        "Descripcion": "mögö es la palabra utilizada para traducir dónde."
+    },
+    {
+        "Palabra": "wö",
+        "Tipo": "Interrogativa",
+        "Traduccion": "cuándo",
+        "Descripcion": "wö es la palabra utilizada para traducir cuándo."
+    }
+]

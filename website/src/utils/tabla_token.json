@@ -1,0 +1,34 @@
+{
+  "Tokens": [
+    {
+      "Token": "Sustantivo",
+      "tipo": "String",
+      "descripcion": "Palabras que se utilizan para nombrar personas, animales, cosas, lugares o ideas."
+    },
+    {
+      "Token": "Adjetivo",
+      "tipo": "String",
+      "descripcion": "Palabras que califican o describen a los sustantivos, indicando características o propiedades."
+    },
+    {
+      "Token": "Pronombre",
+      "tipo": "String",
+      "descripcion": "Palabras que se utilizan para sustituir a los sustantivos, evitando su repetición."
+    },
+    {
+      "Token": "Verbo",
+      "tipo": "String",
+      "descripcion": "Palabras que expresan acciones, estados o procesos realizados por el sujeto."
+    },
+    {
+      "Token": "Preposición",
+      "tipo": "String",
+      "descripcion": "Palabras que establecen relaciones entre los elementos de una oración, como lugar, tiempo o modo."
+    },
+    {
+      "Token": "Interrogativa",
+      "tipo": "String",
+      "descripcion": "Palabras utilizadas para formular preguntas sobre aspectos específicos de la oración."
+    }
+  ]
+}
