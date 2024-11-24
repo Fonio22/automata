@@ -1,78 +1,85 @@
 {
   "q0": {
     "letters": {
-      "W": "q295",
-      "M": "q291",
-      "K": "q288",
-      "N": "q286",
-      "p": "q192",
-      "w": "q147",
-      "m": "q110",
-      "g": "q80",
-      "n": "q58",
-      "s": "q37",
-      "r": "q31",
-      "j": "q25",
-      "t": "q23",
-      "b": "q18",
-      "k": "q13",
-      "c": "q5",
-      "d": "q1"
+      "N": "q217",
+      "M": "q214",
+      "i": "q178",
+      "c": "q170",
+      "ñ": "q161",
+      "a": "q91",
+      "e": "q82",
+      "k": "q76",
+      "d": "q69",
+      "u": "q59",
+      "g": "q39",
+      "ü": "q34",
+      "b": "q25",
+      "j": "q19",
+      "s": "q16",
+      "n": "q5",
+      "m": "q3",
+      "t": "q1"
     },
     "final_state": null
   },
   "q1": {
     "letters": {
-      "i": "q184",
-      "r": "q151",
-      "ä": "q131",
-      "ë": "q76",
-      "u": "q71",
-      "ö": "q63",
-      "o": "q52",
-      "ž": "q45",
-      "ü": "q2"
+      "a": "q102",
+      "ö": "q58",
+      "ä": "q55",
+      "u": "q38",
+      "i": "q2"
     },
     "final_state": null
   },
   "q2": {
     "letters": {
-      "m": "q283",
-      "k": "q269",
-      "t": "q223",
-      "r": "q3"
+      "r": "q193",
+      "g": "q164"
     },
-    "final_state": null
+    "final_state": "yo"
   },
   "q3": {
     "letters": {
-      "i": "q4"
+      "e": "q265",
+      "r": "q226",
+      "ü": "q187",
+      "u": "q182",
+      "o": "q35",
+      "a": "q21",
+      "ä": "q4"
     },
     "final_state": null
   },
   "q4": {
-    "letters": {},
-    "final_state": "Persona"
+    "letters": {
+      "g": "q351",
+      "d": "q115"
+    },
+    "final_state": "tú"
   },
   "q5": {
     "letters": {
-      "h": "q6"
+      "ü": "q179",
+      "e": "q124",
+      "u": "q30",
+      "g": "q10",
+      "i": "q6"
     },
     "final_state": null
   },
   "q6": {
     "letters": {
-      "o": "q260",
-      "ä": "q49",
-      "a": "q10",
-      "u": "q7"
+      "r": "q277",
+      "e": "q167",
+      "b": "q47",
+      "a": "q7"
     },
     "final_state": null
   },
   "q7": {
     "letters": {
-      "b": "q89",
-      "m": "q8"
+      "r": "q8"
     },
     "final_state": null
   },
@@ -84,650 +91,650 @@
   },
   "q9": {
     "letters": {},
-    "final_state": "Casa"
+    "final_state": "él"
   },
   "q10": {
     "letters": {
-      "n": "q11"
+      "u": "q330",
+      "o": "q241",
+      "w": "q66",
+      "i": "q11"
     },
     "final_state": null
   },
   "q11": {
     "letters": {
-      "i": "q12"
+      "t": "q12"
     },
     "final_state": null
   },
   "q12": {
-    "letters": {},
-    "final_state": "Agua"
+    "letters": {
+      "d": "q13"
+    },
+    "final_state": null
   },
   "q13": {
     "letters": {
-      "õ": "q141",
-      "o": "q138",
-      "a": "q83",
-      "ä": "q61",
-      "u": "q55",
-      "ö": "q41",
-      "w": "q21",
-      "e": "q14"
+      "r": "q14"
     },
     "final_state": null
   },
   "q14": {
     "letters": {
-      "c": "q15"
+      "a": "q15"
     },
     "final_state": null
   },
   "q15": {
-    "letters": {
-      "h": "q16"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "machete"
   },
   "q16": {
     "letters": {
+      "ö": "q289",
+      "u": "q253",
+      "e": "q136",
+      "ü": "q105",
+      "r": "q60",
       "i": "q17"
     },
     "final_state": null
   },
   "q17": {
-    "letters": {},
-    "final_state": "Comida"
-  },
-  "q18": {
     "letters": {
-      "ä": "q181",
-      "ö": "q165",
-      "u": "q128",
-      "w": "q19"
+      "ä": "q18"
     },
     "final_state": null
   },
+  "q18": {
+    "letters": {},
+    "final_state": "totuma"
+  },
   "q19": {
     "letters": {
-      "e": "q93",
-      "ä": "q20"
+      "ü": "q245",
+      "o": "q152",
+      "a": "q128",
+      "e": "q49",
+      "ä": "q29",
+      "u": "q20"
     },
     "final_state": null
   },
   "q20": {
     "letters": {
-      "k": "q265"
+      "t": "q206"
     },
-    "final_state": "Niño"
+    "final_state": "casa"
   },
   "q21": {
     "letters": {
-      "a": "q174",
-      "i": "q114",
-      "ä": "q79",
-      "ö": "q22"
+      "t": "q42",
+      "n": "q22"
     },
     "final_state": null
   },
   "q22": {
-    "letters": {},
-    "final_state": "Hombre"
+    "letters": {
+      "t": "q23"
+    },
+    "final_state": null
   },
   "q23": {
     "letters": {
-      "ä": "q142",
-      "o": "q101",
-      "s": "q74",
-      "ö": "q24"
+      "a": "q24"
     },
     "final_state": null
   },
   "q24": {
-    "letters": {
-      "p": "q235"
-    },
-    "final_state": "Mujer"
+    "letters": {},
+    "final_state": "manta"
   },
   "q25": {
     "letters": {
-      "e": "q280",
-      "ö": "q274",
-      "a": "q249",
-      "u": "q213",
-      "ä": "q98",
-      "i": "q29",
-      "o": "q26"
+      "e": "q316",
+      "i": "q233",
+      "l": "q119",
+      "r": "q117",
+      "ü": "q56",
+      "u": "q26"
     },
     "final_state": null
   },
   "q26": {
     "letters": {
-      "g": "q163",
-      "n": "q35",
-      "p": "q27"
+      "r": "q27"
     },
     "final_state": null
   },
   "q27": {
     "letters": {
-      "ö": "q28"
+      "a": "q28"
     },
     "final_state": null
   },
   "q28": {
     "letters": {},
-    "final_state": "Sol"
+    "final_state": "venado"
   },
   "q29": {
+    "letters": {},
+    "final_state": "piedra"
+  },
+  "q30": {
     "letters": {
-      "a": "q30"
+      "r": "q323",
+      "n": "q213",
+      "g": "q31"
     },
     "final_state": null
   },
-  "q30": {
-    "letters": {},
-    "final_state": "Luna"
-  },
   "q31": {
     "letters": {
-      "a": "q32"
+      "r": "q32"
     },
     "final_state": null
   },
   "q32": {
     "letters": {
-      "m": "q33"
+      "ä": "q33"
     },
     "final_state": null
   },
   "q33": {
-    "letters": {
-      "a": "q34"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "perro"
   },
   "q34": {
     "letters": {},
-    "final_state": "Tierra"
+    "final_state": "hacha"
   },
   "q35": {
     "letters": {
-      "i": "q36"
+      "d": "q36"
     },
     "final_state": null
   },
   "q36": {
-    "letters": {},
-    "final_state": "Fuego"
-  },
-  "q37": {
     "letters": {
-      "h": "q170",
-      "c": "q134",
-      "o": "q38"
+      "o": "q37"
     },
     "final_state": null
+  },
+  "q37": {
+    "letters": {},
+    "final_state": "caballo"
   },
   "q38": {
     "letters": {
-      "w": "q66",
-      "g": "q39"
+      "g": "q344",
+      "i": "q185",
+      "ä": "q88"
     },
-    "final_state": null
+    "final_state": "diente"
   },
   "q39": {
     "letters": {
-      "a": "q40"
+      "o": "q294",
+      "r": "q231",
+      "w": "q40"
     },
     "final_state": null
   },
   "q40": {
-    "letters": {},
-    "final_state": "Cielo"
-  },
-  "q41": {
     "letters": {
-      "d": "q42"
+      "a": "q41"
     },
     "final_state": null
   },
+  "q41": {
+    "letters": {},
+    "final_state": "pez"
+  },
   "q42": {
     "letters": {
-      "r": "q43"
+      "d": "q43"
     },
     "final_state": null
   },
   "q43": {
     "letters": {
-      "ö": "q44"
+      "a": "q44"
     },
     "final_state": null
   },
   "q44": {
-    "letters": {},
-    "final_state": "Árbol"
+    "letters": {
+      "r": "q45"
+    },
+    "final_state": null
   },
   "q45": {
     "letters": {
-      "ä": "q46"
+      "e": "q46"
     },
     "final_state": null
   },
   "q46": {
-    "letters": {
-      "b": "q47"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "hoy"
   },
   "q47": {
     "letters": {
-      "ä": "q48"
+      "i": "q48"
     },
     "final_state": null
   },
   "q48": {
     "letters": {},
-    "final_state": "Montaña"
+    "final_state": "vaca"
   },
   "q49": {
     "letters": {
-      "m": "q256",
-      "g": "q196",
-      "k": "q50"
+      "t": "q50"
     },
     "final_state": null
   },
   "q50": {
     "letters": {
-      "ä": "q51"
+      "d": "q51"
     },
     "final_state": null
   },
   "q51": {
-    "letters": {},
-    "final_state": "Río"
+    "letters": {
+      "e": "q52"
+    },
+    "final_state": null
   },
   "q52": {
     "letters": {
-      "y": "q91",
-      "r": "q53"
+      "b": "q53"
     },
     "final_state": null
   },
   "q53": {
     "letters": {
-      "ä": "q54"
+      "e": "q54"
     },
     "final_state": null
   },
   "q54": {
     "letters": {},
-    "final_state": "Camino"
+    "final_state": "mañana"
   },
   "q55": {
-    "letters": {
-      "n": "q125",
-      "u": "q62",
-      "r": "q56"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "ser"
   },
   "q56": {
     "letters": {
-      "u": "q277",
-      "ä": "q146",
-      "a": "q57"
+      "n": "q57"
     },
     "final_state": null
   },
   "q57": {
     "letters": {},
-    "final_state": "Piedra"
+    "final_state": "nieta"
   },
   "q58": {
     "letters": {
-      "w": "q177",
-      "ä": "q107",
-      "i": "q68",
-      "g": "q59"
+      "b": "q325"
     },
-    "final_state": null
+    "final_state": "pensar"
   },
   "q59": {
-    "letters": {
-      "i": "q227",
-      "ö": "q200",
-      "ä": "q60"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "suegro"
   },
   "q60": {
     "letters": {
-      "n": "q168"
+      "i": "q61"
     },
-    "final_state": "Mano"
+    "final_state": null
   },
   "q61": {
     "letters": {
-      "c": "q232",
-      "d": "q203",
-      "n": "q161",
-      "k": "q118"
+      "b": "q62"
     },
-    "final_state": "Pie"
+    "final_state": null
   },
   "q62": {
-    "letters": {},
-    "final_state": "Cabeza"
+    "letters": {
+      "i": "q63"
+    },
+    "final_state": null
   },
   "q63": {
     "letters": {
-      "t": "q225",
-      "g": "q198",
-      "j": "q64"
+      "r": "q64"
     },
     "final_state": null
   },
   "q64": {
     "letters": {
-      "ö": "q65"
+      "e": "q65"
     },
     "final_state": null
   },
   "q65": {
     "letters": {},
-    "final_state": "Corazón"
+    "final_state": "trabajar"
   },
   "q66": {
     "letters": {
-      "o": "q67"
+      "e": "q100",
+      "a": "q67"
     },
     "final_state": null
   },
   "q67": {
-    "letters": {},
-    "final_state": "Viento"
-  },
-  "q68": {
     "letters": {
-      "ä": "q243",
-      "b": "q69"
+      "y": "q68"
     },
     "final_state": null
   },
+  "q68": {
+    "letters": {},
+    "final_state": "hermana"
+  },
   "q69": {
     "letters": {
+      "o": "q299",
+      "i": "q279",
+      "u": "q195",
+      "e": "q144",
+      "r": "q111",
       "ä": "q70"
     },
     "final_state": null
   },
   "q70": {
-    "letters": {},
-    "final_state": "Noche"
+    "letters": {
+      "g": "q203",
+      "t": "q71"
+    },
+    "final_state": null
   },
   "q71": {
     "letters": {
-      "w": "q87",
-      "b": "q72"
+      "d": "q72"
     },
     "final_state": null
   },
   "q72": {
     "letters": {
-      "ä": "q73"
+      "e": "q73"
     },
     "final_state": null
   },
   "q73": {
-    "letters": {},
-    "final_state": "Día"
+    "letters": {
+      "r": "q74"
+    },
+    "final_state": null
   },
   "q74": {
     "letters": {
-      "ä": "q187",
-      "h": "q155",
-      "c": "q104",
-      "o": "q75"
+      "e": "q75"
     },
     "final_state": null
   },
   "q75": {
-    "letters": {
-      "k": "q123"
-    },
-    "final_state": "Pájaro"
+    "letters": {},
+    "final_state": "tejer"
   },
   "q76": {
     "letters": {
-      "r": "q77"
+      "ö": "q309",
+      "o": "q304",
+      "ä": "q288",
+      "l": "q258",
+      "a": "q249",
+      "i": "q157",
+      "ü": "q147",
+      "r": "q98",
+      "w": "q77"
     },
     "final_state": null
   },
   "q77": {
     "letters": {
+      "r": "q321",
+      "i": "q166",
       "e": "q78"
     },
     "final_state": null
   },
   "q78": {
-    "letters": {},
-    "final_state": "Bueno"
+    "letters": {
+      "g": "q347",
+      "t": "q79"
+    },
+    "final_state": null
   },
   "q79": {
     "letters": {
-      "n": "q219",
-      "r": "q190",
-      "b": "q96"
+      "d": "q80"
     },
-    "final_state": "Malo"
+    "final_state": null
   },
   "q80": {
     "letters": {
-      "w": "q81"
+      "e": "q81"
     },
     "final_state": null
   },
   "q81": {
+    "letters": {},
+    "final_state": "comer"
+  },
+  "q82": {
     "letters": {
-      "ä": "q82"
+      "t": "q83"
     },
     "final_state": null
   },
-  "q82": {
-    "letters": {},
-    "final_state": "Frío"
-  },
   "q83": {
     "letters": {
-      "c": "q84"
+      "d": "q84"
     },
     "final_state": null
   },
   "q84": {
     "letters": {
-      "h": "q85"
+      "e": "q85"
     },
     "final_state": null
   },
   "q85": {
     "letters": {
-      "i": "q86"
+      "b": "q86"
     },
     "final_state": null
   },
   "q86": {
-    "letters": {},
-    "final_state": "Caliente"
-  },
-  "q87": {
     "letters": {
-      "i": "q88"
+      "a": "q87"
     },
     "final_state": null
   },
-  "q88": {
+  "q87": {
     "letters": {},
-    "final_state": "Grande"
+    "final_state": "hermano"
+  },
+  "q88": {
+    "letters": {
+      "r": "q89"
+    },
+    "final_state": null
   },
   "q89": {
     "letters": {
-      "i": "q90"
+      "e": "q90"
     },
     "final_state": null
   },
   "q90": {
     "letters": {},
-    "final_state": "Pequeño"
+    "final_state": "bonito"
   },
   "q91": {
     "letters": {
-      "i": "q92"
+      "n": "q92"
     },
     "final_state": null
   },
   "q92": {
-    "letters": {},
-    "final_state": "Rápido"
+    "letters": {
+      "g": "q93"
+    },
+    "final_state": null
   },
   "q93": {
     "letters": {
-      "ñ": "q94"
+      "w": "q94"
     },
     "final_state": null
   },
   "q94": {
     "letters": {
-      "e": "q95"
+      "a": "q95"
     },
     "final_state": null
   },
   "q95": {
-    "letters": {},
-    "final_state": "Felicidad"
+    "letters": {
+      "n": "q96"
+    },
+    "final_state": null
   },
   "q96": {
     "letters": {
-      "a": "q97"
+      "e": "q97"
     },
     "final_state": null
   },
   "q97": {
     "letters": {},
-    "final_state": "Tristeza"
+    "final_state": "y,entonces"
   },
   "q98": {
     "letters": {
-      "g": "q99"
+      "ä": "q237",
+      "i": "q205",
+      "a": "q99"
     },
     "final_state": null
   },
   "q99": {
-    "letters": {
-      "ü": "q100"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "chácara"
   },
   "q100": {
-    "letters": {},
-    "final_state": "Mañana"
-  },
-  "q101": {
     "letters": {
-      "g": "q102"
+      "n": "q101"
     },
     "final_state": null
+  },
+  "q101": {
+    "letters": {},
+    "final_state": "blanco"
   },
   "q102": {
     "letters": {
-      "ä": "q103"
+      "r": "q286",
+      "i": "q103"
     },
     "final_state": null
   },
   "q103": {
-    "letters": {},
-    "final_state": "Mediodía"
-  },
-  "q104": {
     "letters": {
-      "h": "q105"
+      "n": "q104"
     },
     "final_state": null
   },
+  "q104": {
+    "letters": {},
+    "final_state": "rojo"
+  },
   "q105": {
     "letters": {
-      "ö": "q106"
+      "b": "q106"
     },
     "final_state": null
   },
   "q106": {
-    "letters": {},
-    "final_state": "Tarde"
+    "letters": {
+      "r": "q107"
+    },
+    "final_state": null
   },
   "q107": {
     "letters": {
-      "b": "q108"
+      "ü": "q108"
     },
     "final_state": null
   },
   "q108": {
     "letters": {
-      "ä": "q109"
+      "r": "q109"
     },
     "final_state": null
   },
   "q109": {
-    "letters": {},
-    "final_state": "Flor"
-  },
-  "q110": {
     "letters": {
-      "i": "q244",
-      "u": "q237",
-      "w": "q209",
-      "ä": "q111"
+      "e": "q110"
     },
     "final_state": null
   },
-  "q111": {
+  "q110": {
     "letters": {},
-    "final_state": "Madre"
+    "final_state": "amarillo"
+  },
+  "q111": {
+    "letters": {
+      "i": "q140",
+      "ü": "q112"
+    },
+    "final_state": null
   },
   "q112": {
     "letters": {
-      "ä": "q113"
+      "n": "q113"
     },
     "final_state": null
   },
   "q113": {
-    "letters": {},
-    "final_state": "Carretera"
-  },
-  "q114": {
     "letters": {
-      "n": "q115"
+      "e": "q114"
     },
     "final_state": null
   },
+  "q114": {
+    "letters": {},
+    "final_state": "negro"
+  },
   "q115": {
     "letters": {
-      "b": "q116"
+      "ä": "q116"
     },
     "final_state": null
   },
   "q116": {
-    "letters": {
-      "ä": "q117"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "caballo"
   },
   "q117": {
-    "letters": {},
-    "final_state": "Relámpago"
-  },
-  "q118": {
     "letters": {
-      "w": "q119"
+      "ä": "q118"
     },
     "final_state": null
+  },
+  "q118": {
+    "letters": {},
+    "final_state": "nieto"
   },
   "q119": {
     "letters": {
@@ -737,66 +744,67 @@
   },
   "q120": {
     "letters": {
-      "r": "q121"
+      "t": "q121"
     },
     "final_state": null
   },
   "q121": {
     "letters": {
-      "a": "q122"
+      "d": "q122"
     },
     "final_state": null
   },
   "q122": {
-    "letters": {},
-    "final_state": "Trueno"
-  },
-  "q123": {
     "letters": {
-      "a": "q124"
+      "e": "q123"
     },
     "final_state": null
   },
-  "q124": {
+  "q123": {
     "letters": {},
-    "final_state": "Camisa"
+    "final_state": "hablar"
+  },
+  "q124": {
+    "letters": {
+      "t": "q125"
+    },
+    "final_state": null
   },
   "q125": {
     "letters": {
-      "b": "q126"
+      "d": "q126"
     },
     "final_state": null
   },
   "q126": {
     "letters": {
-      "a": "q127"
+      "e": "q127"
     },
     "final_state": null
   },
   "q127": {
     "letters": {},
-    "final_state": "Fruta"
+    "final_state": "aquí"
   },
   "q128": {
-    "letters": {
-      "r": "q129"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "demaineacariciar"
   },
   "q129": {
     "letters": {
-      "e": "q130"
+      "ö": "q130"
     },
     "final_state": null
   },
   "q130": {
-    "letters": {},
-    "final_state": "Pescado"
+    "letters": {
+      "t": "q131"
+    },
+    "final_state": null
   },
   "q131": {
     "letters": {
-      "n": "q159",
-      "b": "q132"
+      "d": "q132"
     },
     "final_state": null
   },
@@ -807,416 +815,424 @@
     "final_state": null
   },
   "q133": {
-    "letters": {},
-    "final_state": "Pan"
+    "letters": {
+      "g": "q134"
+    },
+    "final_state": null
   },
   "q134": {
     "letters": {
-      "h": "q135"
+      "e": "q135"
     },
     "final_state": null
   },
   "q135": {
-    "letters": {
-      "ü": "q136"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "estudiar"
   },
   "q136": {
     "letters": {
-      "e": "q137"
+      "t": "q137"
     },
     "final_state": null
   },
   "q137": {
-    "letters": {},
-    "final_state": "Frijol"
+    "letters": {
+      "d": "q138"
+    },
+    "final_state": null
   },
   "q138": {
     "letters": {
-      "n": "q139"
+      "e": "q139"
     },
     "final_state": null
   },
   "q139": {
+    "letters": {},
+    "final_state": "allí"
+  },
+  "q140": {
     "letters": {
-      "ä": "q140"
+      "e": "q141"
     },
     "final_state": null
   },
-  "q140": {
-    "letters": {},
-    "final_state": "Miel"
-  },
   "q141": {
-    "letters": {},
-    "final_state": "Madera"
+    "letters": {
+      "r": "q142"
+    },
+    "final_state": null
   },
   "q142": {
     "letters": {
-      "n": "q143"
+      "e": "q143"
     },
     "final_state": null
   },
   "q143": {
-    "letters": {
-      "g": "q144"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "enseñar"
   },
   "q144": {
     "letters": {
-      "ä": "q145"
+      "g": "q145"
     },
     "final_state": null
   },
   "q145": {
-    "letters": {},
-    "final_state": "Humo"
+    "letters": {
+      "o": "q146"
+    },
+    "final_state": null
   },
   "q146": {
     "letters": {},
-    "final_state": "Roca"
+    "final_state": "mañana"
   },
   "q147": {
     "letters": {
-      "i": "q148"
+      "r": "q353",
+      "b": "q148"
     },
     "final_state": null
   },
   "q148": {
     "letters": {
-      "n": "q149"
+      "ü": "q149"
     },
     "final_state": null
   },
   "q149": {
     "letters": {
-      "ä": "q150"
+      "e": "q150"
     },
     "final_state": null
   },
   "q150": {
-    "letters": {},
-    "final_state": "Comer"
-  },
-  "q151": {
     "letters": {
-      "ö": "q252",
-      "ä": "q152"
+      "n": "q151"
     },
     "final_state": null
   },
+  "q151": {
+    "letters": {},
+    "final_state": "dormir"
+  },
   "q152": {
     "letters": {
-      "k": "q153"
+      "g": "q292",
+      "d": "q153"
     },
     "final_state": null
   },
   "q153": {
     "letters": {
-      "ä": "q154"
+      "r": "q154"
     },
     "final_state": null
   },
   "q154": {
-    "letters": {},
-    "final_state": "Dormir"
+    "letters": {
+      "i": "q155"
+    },
+    "final_state": null
   },
   "q155": {
     "letters": {
-      "ä": "q216",
-      "ö": "q156"
+      "n": "q156"
     },
     "final_state": null
   },
   "q156": {
-    "letters": {
-      "n": "q157"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "ayer"
   },
   "q157": {
     "letters": {
-      "a": "q158"
+      "t": "q158"
     },
     "final_state": null
   },
   "q158": {
-    "letters": {},
-    "final_state": "Correr"
+    "letters": {
+      "d": "q159"
+    },
+    "final_state": null
   },
   "q159": {
     "letters": {
-      "i": "q160"
+      "e": "q160"
     },
     "final_state": null
   },
   "q160": {
     "letters": {},
-    "final_state": "Beber"
+    "final_state": "tirar"
   },
   "q161": {
     "letters": {
+      "o": "q271",
       "a": "q162"
     },
     "final_state": null
   },
   "q162": {
-    "letters": {},
-    "final_state": "Caminar"
+    "letters": {
+      "i": "q191",
+      "n": "q163"
+    },
+    "final_state": null
   },
   "q163": {
-    "letters": {
-      "ä": "q164"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "no"
   },
   "q164": {
-    "letters": {},
-    "final_state": "Cantar"
+    "letters": {
+      "w": "q228",
+      "e": "q165"
+    },
+    "final_state": null
   },
   "q165": {
-    "letters": {
-      "g": "q166"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "marcar"
   },
   "q166": {
-    "letters": {
-      "ä": "q167"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "gallina"
   },
   "q167": {
-    "letters": {},
-    "final_state": "Leer"
+    "letters": {
+      "r": "q168"
+    },
+    "final_state": null
   },
   "q168": {
     "letters": {
-      "ä": "q169"
+      "e": "q169"
     },
     "final_state": null
   },
   "q169": {
     "letters": {},
-    "final_state": "Hablar"
+    "final_state": "decir"
   },
   "q170": {
     "letters": {
-      "ä": "q206",
-      "ö": "q171"
+      "h": "q171"
     },
     "final_state": null
   },
   "q171": {
     "letters": {
-      "n": "q172"
+      "i": "q172"
     },
     "final_state": null
   },
   "q172": {
+    "letters": {},
+    "final_state": "pequeño"
+  },
+  "q173": {
     "letters": {
-      "a": "q173"
+      "e": "q174"
     },
     "final_state": null
   },
-  "q173": {
-    "letters": {},
-    "final_state": "Escribir"
-  },
   "q174": {
     "letters": {
-      "ñ": "q175"
+      "t": "q175"
     },
     "final_state": null
   },
   "q175": {
     "letters": {
-      "a": "q176"
+      "d": "q176"
     },
     "final_state": null
   },
   "q176": {
-    "letters": {},
-    "final_state": "Pensar"
-  },
-  "q177": {
     "letters": {
-      "ä": "q178"
+      "e": "q177"
     },
     "final_state": null
+  },
+  "q177": {
+    "letters": {},
+    "final_state": "pelear"
   },
   "q178": {
     "letters": {
-      "r": "q179"
+      "e": "q230"
     },
-    "final_state": null
+    "final_state": "maíz"
   },
   "q179": {
     "letters": {
-      "ä": "q180"
+      "n": "q180"
     },
     "final_state": null
   },
   "q180": {
-    "letters": {},
-    "final_state": "Mirar"
-  },
-  "q181": {
     "letters": {
-      "k": "q182"
+      "e": "q181"
     },
     "final_state": null
   },
+  "q181": {
+    "letters": {},
+    "final_state": "vivir"
+  },
   "q182": {
     "letters": {
-      "ä": "q183"
+      "n": "q260",
+      "g": "q209",
+      "m": "q183"
     },
     "final_state": null
   },
   "q183": {
-    "letters": {},
-    "final_state": "Escuchar"
-  },
-  "q184": {
     "letters": {
-      "r": "q185"
+      "a": "q184"
     },
     "final_state": null
   },
+  "q184": {
+    "letters": {},
+    "final_state": "frijol"
+  },
   "q185": {
     "letters": {
-      "ä": "q186"
+      "n": "q186"
     },
     "final_state": null
   },
   "q186": {
     "letters": {},
-    "final_state": "Abrir"
+    "final_state": "mirar"
   },
   "q187": {
     "letters": {
-      "r": "q188"
+      "r": "q283"
     },
-    "final_state": null
+    "final_state": "águila"
   },
   "q188": {
     "letters": {
-      "a": "q189"
+      "d": "q189"
     },
     "final_state": null
   },
   "q189": {
-    "letters": {},
-    "final_state": "Cerrar"
+    "letters": {
+      "ü": "q190"
+    },
+    "final_state": null
   },
   "q190": {
-    "letters": {
-      "a": "q191"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "puerco"
   },
   "q191": {
-    "letters": {},
-    "final_state": "Gritar"
-  },
-  "q192": {
     "letters": {
-      "ö": "q240",
-      "a": "q222",
-      "ä": "q193"
+      "n": "q192"
     },
     "final_state": null
+  },
+  "q192": {
+    "letters": {},
+    "final_state": "tomar"
   },
   "q193": {
     "letters": {
-      "n": "q194"
+      "e": "q202",
+      "o": "q194"
     },
     "final_state": null
   },
   "q194": {
+    "letters": {},
+    "final_state": "saíno"
+  },
+  "q195": {
     "letters": {
-      "ä": "q195"
+      "ä": "q196"
     },
     "final_state": null
   },
-  "q195": {
-    "letters": {},
-    "final_state": "Cocinar"
-  },
   "q196": {
     "letters": {
-      "ä": "q197"
+      "n": "q197"
     },
     "final_state": null
   },
   "q197": {
-    "letters": {},
-    "final_state": "Comprar"
+    "letters": {
+      "d": "q198"
+    },
+    "final_state": null
   },
   "q198": {
     "letters": {
-      "ä": "q199"
+      "i": "q199"
     },
     "final_state": null
   },
   "q199": {
-    "letters": {},
-    "final_state": "Vender"
+    "letters": {
+      "g": "q200"
+    },
+    "final_state": null
   },
   "q200": {
     "letters": {
-      "b": "q263",
-      "r": "q201"
+      "e": "q201"
     },
     "final_state": null
   },
   "q201": {
-    "letters": {
-      "ä": "q202"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "coser"
   },
   "q202": {
     "letters": {},
-    "final_state": "Construir"
+    "final_state": "monte"
   },
   "q203": {
     "letters": {
-      "r": "q204"
+      "e": "q204"
     },
     "final_state": null
   },
   "q204": {
-    "letters": {
-      "ä": "q205"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "pilar"
   },
   "q205": {
     "letters": {},
-    "final_state": "Romper"
+    "final_state": "grande"
   },
   "q206": {
     "letters": {
-      "g": "q207"
+      "d": "q207"
     },
     "final_state": null
   },
   "q207": {
     "letters": {
-      "ä": "q208"
+      "a": "q208"
     },
     "final_state": null
   },
   "q208": {
     "letters": {},
-    "final_state": "Ayudar"
+    "final_state": "árbol"
   },
   "q209": {
     "letters": {
-      "ä": "q210"
+      "i": "q210"
     },
     "final_state": null
   },
@@ -1234,430 +1250,749 @@
   },
   "q212": {
     "letters": {},
-    "final_state": "Llorar"
+    "final_state": "pueblo"
   },
   "q213": {
-    "letters": {
-      "g": "q214"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "Nosotros"
   },
   "q214": {
     "letters": {
-      "ä": "q215"
+      "u": "q215"
     },
     "final_state": null
   },
   "q215": {
-    "letters": {},
-    "final_state": "Jugar"
-  },
-  "q216": {
     "letters": {
-      "g": "q217"
+      "n": "q216"
     },
     "final_state": null
   },
+  "q216": {
+    "letters": {},
+    "final_state": "Vosotros"
+  },
   "q217": {
     "letters": {
-      "ä": "q218"
+      "i": "q218"
     },
     "final_state": null
   },
   "q218": {
-    "letters": {},
-    "final_state": "Cazar"
+    "letters": {
+      "a": "q219"
+    },
+    "final_state": null
   },
   "q219": {
     "letters": {
-      "ä": "q220"
+      "r": "q220"
     },
     "final_state": null
   },
   "q220": {
-    "letters": {},
-    "final_state": "Esperar"
+    "letters": {
+      "a": "q221"
+    },
+    "final_state": null
+  },
+  "q221": {
+    "letters": {
+      "t": "q222"
+    },
+    "final_state": null
   },
   "q222": {
-    "letters": {},
-    "final_state": "Padre"
+    "letters": {
+      "d": "q223"
+    },
+    "final_state": null
   },
   "q223": {
     "letters": {
-      "ä": "q224"
+      "r": "q224"
     },
     "final_state": null
   },
   "q224": {
-    "letters": {},
-    "final_state": "Hermano"
+    "letters": {
+      "e": "q225"
+    },
+    "final_state": null
   },
   "q225": {
-    "letters": {
-      "ä": "q226"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "Ellos"
   },
   "q226": {
-    "letters": {},
-    "final_state": "Hermana"
-  },
-  "q227": {
     "letters": {
-      "b": "q228"
+      "ö": "q227"
     },
     "final_state": null
+  },
+  "q227": {
+    "letters": {},
+    "final_state": "Comer"
   },
   "q228": {
     "letters": {
-      "ä": "q229"
+      "e": "q229"
     },
     "final_state": null
   },
   "q229": {
-    "letters": {
-      "r": "q230"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "Mio"
   },
   "q230": {
-    "letters": {
-      "e": "q231"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "el"
   },
   "q231": {
-    "letters": {},
-    "final_state": "Amigo"
-  },
-  "q232": {
     "letters": {
-      "h": "q233"
+      "ä": "q232"
     },
     "final_state": null
+  },
+  "q232": {
+    "letters": {},
+    "final_state": "para"
   },
   "q233": {
     "letters": {
-      "i": "q234"
+      "t": "q234"
     },
     "final_state": null
   },
   "q234": {
-    "letters": {},
-    "final_state": "Hijo"
+    "letters": {
+      "d": "q235"
+    },
+    "final_state": null
   },
   "q235": {
     "letters": {
-      "Ä": "q236"
+      "i": "q236"
     },
     "final_state": null
   },
   "q236": {
     "letters": {},
-    "final_state": "Vecino"
+    "final_state": "con"
   },
   "q237": {
     "letters": {
-      "m": "q238"
+      "c": "q238"
     },
     "final_state": null
   },
   "q238": {
     "letters": {
-      "u": "q239"
+      "h": "q239"
     },
     "final_state": null
   },
   "q239": {
-    "letters": {},
-    "final_state": "Abuela"
-  },
-  "q240": {
     "letters": {
-      "p": "q241"
+      "i": "q240"
     },
     "final_state": null
   },
+  "q240": {
+    "letters": {},
+    "final_state": "flaco"
+  },
   "q241": {
     "letters": {
-      "ö": "q242"
+      "t": "q242"
     },
     "final_state": null
   },
   "q242": {
-    "letters": {},
-    "final_state": "Abuelo"
-  },
-  "q243": {
-    "letters": {},
-    "final_state": "Perro"
-  },
-  "q244": {
     "letters": {
-      "s": "q245"
+      "d": "q243"
     },
     "final_state": null
   },
+  "q243": {
+    "letters": {
+      "o": "q244"
+    },
+    "final_state": null
+  },
+  "q244": {
+    "letters": {},
+    "final_state": "pie"
+  },
   "q245": {
     "letters": {
-      "h": "q246"
+      "g": "q319",
+      "b": "q246"
     },
     "final_state": null
   },
   "q246": {
     "letters": {
-      "i": "q247"
+      "e": "q247"
     },
     "final_state": null
   },
   "q247": {
+    "letters": {
+      "n": "q248"
+    },
+    "final_state": null
+  },
+  "q248": {
     "letters": {},
-    "final_state": "Gato"
+    "final_state": "bañarse"
   },
   "q249": {
     "letters": {
-      "m": "q250"
+      "r": "q250"
     },
     "final_state": null
   },
   "q250": {
     "letters": {
-      "ö": "q251"
+      "e": "q251"
     },
     "final_state": null
   },
   "q251": {
     "letters": {},
-    "final_state": "Tortuga"
-  },
-  "q252": {
-    "letters": {
-      "d": "q253"
-    },
-    "final_state": null
+    "final_state": "cantar"
   },
   "q253": {
     "letters": {
-      "r": "q254"
+      "l": "q254"
     },
     "final_state": null
   },
   "q254": {
     "letters": {
-      "ä": "q255"
+      "i": "q255"
     },
     "final_state": null
   },
   "q255": {
-    "letters": {},
-    "final_state": "Ave"
+    "letters": {
+      "a": "q256"
+    },
+    "final_state": null
   },
   "q256": {
-    "letters": {
-      "a": "q257"
-    },
-    "final_state": null
-  },
-  "q257": {
-    "letters": {
-      "r": "q258"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "(kimie)cucaracha"
   },
   "q258": {
     "letters": {
-      "a": "q259"
+      "ä": "q259"
     },
     "final_state": null
   },
   "q259": {
     "letters": {},
-    "final_state": "Playa"
+    "final_state": "barba"
   },
   "q260": {
-    "letters": {
-      "r": "q261"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "miel"
   },
   "q261": {
     "letters": {
-      "ä": "q262"
+      "w": "q262"
     },
     "final_state": null
   },
   "q262": {
-    "letters": {},
-    "final_state": "Mar"
-  },
-  "q263": {
     "letters": {
-      "e": "q264"
+      "ä": "q263"
     },
     "final_state": null
   },
-  "q264": {
+  "q263": {
     "letters": {},
-    "final_state": "Pueblo"
+    "final_state": "mosca"
   },
   "q265": {
     "letters": {
-      "a": "q266"
+      "r": "q338",
+      "d": "q266"
     },
     "final_state": null
   },
   "q266": {
     "letters": {
-      "b": "q267"
+      "e": "q267"
     },
     "final_state": null
   },
   "q267": {
     "letters": {
-      "a": "q268"
+      "n": "q268"
     },
     "final_state": null
   },
   "q268": {
-    "letters": {},
-    "final_state": "Silla"
+    "letters": {
+      "d": "q269"
+    },
+    "final_state": null
   },
   "q269": {
     "letters": {
-      "a": "q270"
+      "e": "q270"
     },
     "final_state": null
   },
   "q270": {
-    "letters": {
-      "b": "q271"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "dónde"
   },
   "q271": {
     "letters": {
-      "a": "q272"
+      "b": "q272"
     },
     "final_state": null
   },
   "q272": {
-    "letters": {},
-    "final_state": "Mesa"
+    "letters": {
+      "o": "q273"
+    },
+    "final_state": null
+  },
+  "q273": {
+    "letters": {
+      "t": "q274"
+    },
+    "final_state": null
   },
   "q274": {
     "letters": {
-      "n": "q275"
+      "d": "q275"
     },
     "final_state": null
   },
   "q275": {
     "letters": {
-      "a": "q276"
+      "ä": "q276"
     },
     "final_state": null
   },
   "q276": {
     "letters": {},
-    "final_state": "Estrella"
+    "final_state": "porqué"
   },
   "q277": {
     "letters": {
-      "m": "q278"
+      "e": "q278"
     },
     "final_state": null
   },
   "q278": {
+    "letters": {},
+    "final_state": "quién"
+  },
+  "q279": {
     "letters": {
-      "a": "q279"
+      "m": "q280"
     },
     "final_state": null
   },
-  "q279": {
-    "letters": {},
-    "final_state": "Carro"
-  },
   "q280": {
     "letters": {
-      "r": "q281"
+      "e": "q281"
     },
     "final_state": null
   },
   "q281": {
-    "letters": {
-      "ö": "q282"
-    },
-    "final_state": null
-  },
-  "q282": {
     "letters": {},
-    "final_state": "Dinero"
+    "final_state": "agrio"
   },
   "q283": {
     "letters": {
-      "u": "q284"
+      "i": "q284"
     },
     "final_state": null
   },
   "q284": {
+    "letters": {
+      "e": "q285"
+    },
+    "final_state": null
+  },
+  "q285": {
     "letters": {},
-    "final_state": "Trabajo"
+    "final_state": "viento"
   },
   "q286": {
     "letters": {
-      "ö": "q287"
+      "e": "q287"
     },
     "final_state": null
   },
   "q287": {
-    "letters": {},
-    "final_state": "Qué"
+    "letters": {
+      "n": "q312"
+    },
+    "final_state": "amor"
   },
   "q288": {
-    "letters": {
-      "ä": "q289"
-    },
-    "final_state": null
+    "letters": {},
+    "final_state": "lugar"
   },
   "q289": {
     "letters": {
-      "n": "q290"
+      "g": "q290"
     },
-    "final_state": null
+    "final_state": "luna"
   },
   "q290": {
-    "letters": {},
-    "final_state": "Cómo"
-  },
-  "q291": {
     "letters": {
-      "ö": "q292"
+      "ö": "q291"
     },
     "final_state": null
+  },
+  "q291": {
+    "letters": {},
+    "final_state": "barrer"
   },
   "q292": {
     "letters": {
-      "g": "q293"
+      "o": "q293"
     },
     "final_state": null
   },
   "q293": {
+    "letters": {},
+    "final_state": "araña"
+  },
+  "q294": {
     "letters": {
-      "ö": "q294"
+      "r": "q336",
+      "t": "q295"
     },
     "final_state": null
   },
-  "q294": {
-    "letters": {},
-    "final_state": "Dónde"
-  },
   "q295": {
     "letters": {
-      "ö": "q296"
+      "d": "q296"
     },
     "final_state": null
   },
   "q296": {
+    "letters": {
+      "ä": "q297"
+    },
+    "final_state": null
+  },
+  "q297": {
     "letters": {},
-    "final_state": "Cuándo"
+    "final_state": "reunión"
+  },
+  "q299": {
+    "letters": {
+      "r": "q300"
+    },
+    "final_state": null
+  },
+  "q300": {
+    "letters": {
+      "e": "q301"
+    },
+    "final_state": null
+  },
+  "q301": {
+    "letters": {
+      "b": "q302"
+    },
+    "final_state": null
+  },
+  "q302": {
+    "letters": {
+      "e": "q303"
+    },
+    "final_state": null
+  },
+  "q303": {
+    "letters": {},
+    "final_state": "suave"
+  },
+  "q304": {
+    "letters": {
+      "b": "q305"
+    },
+    "final_state": null
+  },
+  "q305": {
+    "letters": {
+      "o": "q306"
+    },
+    "final_state": null
+  },
+  "q306": {
+    "letters": {
+      "r": "q307"
+    },
+    "final_state": null
+  },
+  "q307": {
+    "letters": {
+      "e": "q308"
+    },
+    "final_state": null
+  },
+  "q308": {
+    "letters": {},
+    "final_state": "tacaño"
+  },
+  "q309": {
+    "letters": {
+      "d": "q310"
+    },
+    "final_state": null
+  },
+  "q310": {
+    "letters": {
+      "ä": "q311"
+    },
+    "final_state": null
+  },
+  "q311": {
+    "letters": {},
+    "final_state": "zorra"
+  },
+  "q312": {
+    "letters": {
+      "i": "q313"
+    },
+    "final_state": null
+  },
+  "q313": {
+    "letters": {
+      "g": "q314"
+    },
+    "final_state": null
+  },
+  "q314": {
+    "letters": {
+      "e": "q315"
+    },
+    "final_state": null
+  },
+  "q315": {
+    "letters": {},
+    "final_state": "sufrir"
+  },
+  "q316": {
+    "letters": {
+      "r": "q317"
+    },
+    "final_state": null
+  },
+  "q317": {
+    "letters": {
+      "e": "q318"
+    },
+    "final_state": null
+  },
+  "q318": {
+    "letters": {},
+    "final_state": "fruta"
+  },
+  "q319": {
+    "letters": {
+      "e": "q320"
+    },
+    "final_state": null
+  },
+  "q320": {
+    "letters": {},
+    "final_state": "soplar"
+  },
+  "q321": {
+    "letters": {
+      "e": "q322"
+    },
+    "final_state": null
+  },
+  "q322": {
+    "letters": {},
+    "final_state": "tucán"
+  },
+  "q323": {
+    "letters": {
+      "o": "q324"
+    },
+    "final_state": null
+  },
+  "q324": {
+    "letters": {},
+    "final_state": "sobrino"
+  },
+  "q325": {
+    "letters": {
+      "o": "q326"
+    },
+    "final_state": null
+  },
+  "q326": {
+    "letters": {
+      "t": "q327"
+    },
+    "final_state": null
+  },
+  "q327": {
+    "letters": {
+      "d": "q328"
+    },
+    "final_state": null
+  },
+  "q328": {
+    "letters": {
+      "ä": "q329"
+    },
+    "final_state": null
+  },
+  "q329": {
+    "letters": {},
+    "final_state": "sabio"
+  },
+  "q330": {
+    "letters": {
+      "d": "q331"
+    },
+    "final_state": null
+  },
+  "q331": {
+    "letters": {
+      "u": "q332"
+    },
+    "final_state": null
+  },
+  "q332": {
+    "letters": {
+      "g": "q333"
+    },
+    "final_state": null
+  },
+  "q333": {
+    "letters": {
+      "w": "q334"
+    },
+    "final_state": null
+  },
+  "q334": {
+    "letters": {
+      "ä": "q335"
+    },
+    "final_state": null
+  },
+  "q335": {
+    "letters": {},
+    "final_state": "rodilla"
+  },
+  "q336": {
+    "letters": {
+      "e": "q337"
+    },
+    "final_state": null
+  },
+  "q337": {
+    "letters": {},
+    "final_state": "robar"
+  },
+  "q338": {
+    "letters": {
+      "a": "q339"
+    },
+    "final_state": null
+  },
+  "q339": {
+    "letters": {
+      "t": "q340"
+    },
+    "final_state": null
+  },
+  "q340": {
+    "letters": {
+      "d": "q341"
+    },
+    "final_state": null
+  },
+  "q341": {
+    "letters": {
+      "r": "q342"
+    },
+    "final_state": null
+  },
+  "q342": {
+    "letters": {
+      "ö": "q343"
+    },
+    "final_state": null
+  },
+  "q343": {
+    "letters": {},
+    "final_state": "relámpago"
+  },
+  "q344": {
+    "letters": {
+      "w": "q345"
+    },
+    "final_state": null
+  },
+  "q345": {
+    "letters": {
+      "e": "q346"
+    },
+    "final_state": null
+  },
+  "q346": {
+    "letters": {},
+    "final_state": "ratón"
+  },
+  "q347": {
+    "letters": {
+      "e": "q348"
+    },
+    "final_state": null
+  },
+  "q348": {
+    "letters": {
+      "b": "q349"
+    },
+    "final_state": null
+  },
+  "q349": {
+    "letters": {
+      "e": "q350"
+    },
+    "final_state": null
+  },
+  "q350": {
+    "letters": {},
+    "final_state": "calmado"
+  },
+  "q351": {
+    "letters": {
+      "ä": "q352"
+    },
+    "final_state": null
+  },
+  "q352": {
+    "letters": {},
+    "final_state": "pulga"
+  },
+  "q353": {
+    "letters": {
+      "ü": "q354"
+    },
+    "final_state": null
+  },
+  "q354": {
+    "letters": {},
+    "final_state": "rifle"
   }
 }
