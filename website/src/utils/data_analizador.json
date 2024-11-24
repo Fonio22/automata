@@ -1,28 +1,95 @@
 {
-  "Sustantivo": [
-    "ngitdra", "siä", "ju", "manta", "bura", "jä", "nugrä", "ü", "modo", "tu", 
-    "gwa", "matdare", "nibi", "bün", "u", "dätdere", "etdeba", "sübrüre", "drüne", 
-    "mädä", "brä", "kwi", "mütdü", "tiro", "tire", "däge", "jutda", "mugira", 
-    "ngotdo", "sulia", "klä", "mungwä", "mü", "mürie", "tare", "kä", "sö", 
-    "jogo", "gotdä", "mun", "ködä", "bere", "kwre", "nuro", "ngudugwä", "meratdrö", 
-    "tugwe", "mägä", "kürü"
+  "pronombres": ["ti", "mä", "niara", "nun", "mun", "niaratdre", "ie", "tigwe"],
+  "sustantivos": [
+    "ngitdra",
+    "siä",
+    "ju",
+    "manta",
+    "bura",
+    "jä",
+    "nugrä",
+    "ü",
+    "modo",
+    "tu",
+    "gwa",
+    "matdare",
+    "nibi",
+    "bün",
+    "u",
+    "dätdere",
+    "etdeba",
+    "sübrüre",
+    "drüne",
+    "mädä",
+    "brä",
+    "kwi",
+    "mütdü",
+    "tiro",
+    "tire",
+    "däge",
+    "jutda",
+    "mugira",
+    "ngotdo",
+    "sulia",
+    "klä",
+    "mungwä",
+    "mü",
+    "mürie",
+    "tare",
+    "kä",
+    "sö",
+    "jogo",
+    "gotdä",
+    "mun",
+    "ködä",
+    "bere",
+    "kwre",
+    "nuro",
+    "ngudugwä",
+    "meratdrö",
+    "tugwe",
+    "mägä",
+    "kürü"
   ],
-  "Adjetivo": [
-    "tuäre", "kra", "ngwen", "tain", "chi", "dime", "dorebe", "kobore", "kwegebe", 
-    "krächi", "kri", "töbotdä"
+  "adjetivos": [
+    "tuäre",
+    "kra",
+    "ngwen",
+    "tain",
+    "chi",
+    "dime",
+    "dorebe",
+    "kobore",
+    "kwegebe",
+    "krächi",
+    "kri",
+    "töbotdä"
   ],
-  "Verbo": [
-    "tä", "tö", "sribire", "ngway", "blitde", "jatötdige", "driere", "kübüen", 
-    "kitde", "tige", "niere", "jametde", "nüne", "tuin", "ñain", "duändige", 
-    "jüge", "gore", "tarenige", "kare", "jüben", "sögö", "ja demaine"
+  "verbos": [
+    "tä",
+    "tö",
+    "sribire",
+    "ngway",
+    "blitde",
+    "jatötdige",
+    "driere",
+    "kübüen",
+    "kitde",
+    "tige",
+    "niere",
+    "jametde",
+    "nüne",
+    "tuin",
+    "ñain",
+    "duändige",
+    "jüge",
+    "gore",
+    "tarenige",
+    "kare",
+    "jüben",
+    "sögö",
+    "ja demaine"
   ],
-  "Interrogativa": [
-    "medende", "ñobotdä", "nire"
-  ],
-  "Negación": [
-    "ñan"
-  ],
-  "Preposición": [
-    "angwane", "grä", "bitdi"
-  ]
+  "interrogativas": ["medende", "ñobotdä", "nire"],
+  "Preposición": ["angwane", "grä", "bitdi"]
 }
