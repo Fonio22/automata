@@ -1,86 +1,28 @@
 {
-  "sustantivos": [
-    "düri",
-    "chuma",
-    "chani",
-    "kechi",
-    "bwä",
-    "kwö",
-    "tö",
-    "jopö",
-    "jia",
-    "rama",
-    "joni",
-    "soga",
-    "ködrö",
-    "džäbä",
-    "chäkä",
-    "dorä",
-    "kura",
-    "ngä",
-    "kä",
-    "kuu",
-    "döjö",
-    "sowo",
-    "nibä",
-    "dubä",
-    "tso"
+  "Sustantivo": [
+    "ngitdra", "siä", "ju", "manta", "bura", "jä", "nugrä", "ü", "modo", "tu", 
+    "gwa", "matdare", "nibi", "bün", "u", "dätdere", "etdeba", "sübrüre", "drüne", 
+    "mädä", "brä", "kwi", "mütdü", "tiro", "tire", "däge", "jutda", "mugira", 
+    "ngotdo", "sulia", "klä", "mungwä", "mü", "mürie", "tare", "kä", "sö", 
+    "jogo", "gotdä", "mun", "ködä", "bere", "kwre", "nuro", "ngudugwä", "meratdrö", 
+    "tugwe", "mägä", "kürü"
   ],
-  "adjetivos": [
-    "dëre",
-    "kwä",
-    "gwä",
-    "kachi",
-    "duwi",
-    "chubi",
-    "doyi",
-    "bweñe",
-    "kwäba",
-    "jägü",
-    "togä",
-    "tschö",
-    "näbä",
-    "mäbä",
-    "kwinbä",
-    "käkwira",
-    "tsoka",
-    "kunba",
-    "bure",
-    "däbi",
-    "schüe",
-    "konä",
-    "kõ",
-    "tängä",
-    "kurä"
+  "Adjetivo": [
+    "tuäre", "kra", "ngwen", "tain", "chi", "dime", "dorebe", "kobore", "kwegebe", 
+    "krächi", "kri", "töbotdä"
   ],
-  "pronombres": [],
-  "verbos": [
-    "winä",
-    "dräkä",
-    "tshöna",
-    "däni",
-    "käna",
-    "jogä",
-    "bögä",
-    "ngänä",
-    "shöna",
-    "kwaña",
-    "nwärä",
-    "bäkä",
-    "dirä",
-    "tsära",
-    "kwära",
-    "pänä",
-    "chägä",
-    "dögä",
-    "ngörä",
-    "kädrä",
-    "shägä",
-    "mwära",
-    "jugä",
-    "tshägä",
-    "kwänä"
+  "Verbo": [
+    "tä", "tö", "sribire", "ngway", "blitde", "jatötdige", "driere", "kübüen", 
+    "kitde", "tige", "niere", "jametde", "nüne", "tuin", "ñain", "duändige", 
+    "jüge", "gore", "tarenige", "kare", "jüben", "sögö", "ja demaine"
   ],
-  "preposiciones": [],
-  "interrogativas": ["nö", "kän", "mögö", "wö"]
+  "Interrogativa": [
+    "medende", "ñobotdä", "nire"
+  ],
+  "Negación": [
+    "ñan"
+  ],
+  "Preposición": [
+    "angwane", "grä", "bitdi"
+  ]
 }
