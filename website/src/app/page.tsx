@@ -48,7 +48,10 @@ export default function Home() {
     if (Object.keys(jsonDataInput).length === 0) return;
     const data = jsonDataInput;
 
-    const cadena_array = playGroundInput.replace("?", "").split(" ");
+    const cadena_array = playGroundInput
+      .toLowerCase()
+      .replace("?", "")
+      .split(" ");
 
     let resultadoFinal = [] as any;
 
@@ -84,7 +87,7 @@ export default function Home() {
         });
       } else {
         const analizador = new AnalizadorSintactico(
-          playGroundInput.trim().replace("?", "") as string,
+          playGroundInput.toLowerCase().trim().replace("?", "") as string,
           data_analizador as any
         );
 
