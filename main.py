@@ -1,33 +1,34 @@
 import json
 
-with open("data.json", "r") as file:
+with open("data.json", encoding="utf-8") as file:
     data = json.load(file)
 
 
-estado = ["q0"]
-
-
 def procesar_cadena(cadena):
-    trozos = list(cadena)
+    palabras = cadena.split()
+    resultados = []
 
-    for index, letra in enumerate(trozos):
-        if letra not in data[estado[-1]]["letters"]:
+    for num_palabra, palabra in enumerate(palabras, start=1):
+        estado = ["q0"]
+        trozos = list(palabra)
+        for index, letra in enumerate(trozos):
+            if letra not in data[estado[-1]]["letters"]:
+                return {
+                    "error": True,
+                    "mensaje": f"LexemaError: error en la palabra {num_palabra}, en la letra '{letra}' (posición {index + 1}).",
+                }
+            estado.append(data[estado[-1]]["letters"][letra])
+
+        if data[estado[-1]]["final_state"] is None:
             return {
-                "status": False,
-                "final_state": data[estado[-1]]["final_state"],
-                "index": index,
+                "error": True,
+                "mensaje": f"LexemaError: error en la palabra {num_palabra}. No se llegó a un estado final.",
             }
+        resultados.append(data[estado[-1]]["final_state"])
 
-        estado.append(data[estado[-1]]["letters"][letra])
-
-        if index == len(trozos) - 1:
-            return {
-                "status": data[estado[-1]]["final_state"] is not None,
-                "final_state": data[estado[-1]]["final_state"],
-                "index": index,
-            }
+    return {"final_states": resultados}
 
 
-print(procesar_cadena("bwä"))
-
-print(estado)
+# Prueba con una oracion
+resultado = procesar_cadena("üri chuma")
+print(resultado)
