@@ -48,7 +48,7 @@ export default function Home() {
     if (Object.keys(jsonDataInput).length === 0) return;
     const data = jsonDataInput;
 
-    const cadena_array = playGroundInput.split(" ");
+    const cadena_array = playGroundInput.replace("?", "").split(" ");
 
     let resultadoFinal = [] as any;
 
@@ -84,7 +84,7 @@ export default function Home() {
         });
       } else {
         const analizador = new AnalizadorSintactico(
-          playGroundInput.trim() as string,
+          playGroundInput.trim().replace("?", "") as string,
           data_analizador as any
         );
 
@@ -139,7 +139,7 @@ export default function Home() {
     return (
       <Table.Tr key={index}>
         <Table.Td>{element}</Table.Td>
-        <Table.Td>{element.length}</Table.Td>
+        <Table.Td>{element.replace("?", "").length}</Table.Td>
         <Table.Td>{currentResult ? currentResult.index + 1 : "N/A"}</Table.Td>
         <Table.Td
           className={currentResult?.status ? "text-green-500" : "text-red-500"}
