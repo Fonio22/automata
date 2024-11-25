@@ -296,6 +296,25 @@ export default function Home() {
                   >
                     {errors.errorSegundo.mensaje}
                   </Alert>
+                ) : errors.errorPrimero ? (
+                  <Alert
+                    variant="light"
+                    color="red"
+                    title="Error de Lexema!!"
+                    className="w-full mb-4"
+                  >
+                    {result.map((element, index) => {
+                      if (element.status === false) {
+                        return (
+                          <div key={index}>
+                            <span className="font-bold">{element.cadena}</span>{" "}
+                            - letra: {element.cadena[element.estado.length - 1]}{" "}
+                            - posicion: {element.estado.length}
+                          </div>
+                        );
+                      }
+                    })}
+                  </Alert>
                 ) : (
                   <div className="border border-gray-200 rounded-lg p-4 w-full mb-4 max-h-32 min-h-32 overflow-y-auto">
                     <div className="flex justify-start items-start gap-1 flex-wrap">
