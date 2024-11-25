@@ -309,7 +309,7 @@ export default function Home() {
                           <div key={index}>
                             <span className="font-bold">{element.cadena}</span>{" "}
                             - letra: {element.cadena[element.estado.length - 1]}{" "}
-                            - posicion: {element.estado.length}
+                            - posición: {element.estado.length}
                           </div>
                         );
                       }
